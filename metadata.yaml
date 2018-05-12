@@ -13,6 +13,8 @@ creator:
     gutenberg_agent_id: '36413'
     url: http://www.gutenberg.org/2009/agents/36413
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/33446#Lace-Curtain-Cleaning--A-Successful-Home-Business
 gutenberg_issued: '2010-08-16'
 gutenberg_type: Text
 identifiers:
