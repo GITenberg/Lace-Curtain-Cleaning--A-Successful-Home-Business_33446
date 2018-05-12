@@ -1,0 +1,29 @@
+_repo: Lace-Curtain-Cleaning--A-Successful-Home-Business_33446
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 33446-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Leigh, Sarah Ann
+    aliases:
+    - Leigh, Sarah Ann (Ault)
+    - Leigh, Mrs. Albert
+    birthdate: 1869
+    gutenberg_agent_id: '36413'
+    url: http://www.gutenberg.org/2009/agents/36413
+description: ''
+gutenberg_issued: '2010-08-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '33446'
+  lccn: '13002556'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Laundry'
+- !lcc 'TT'
+title: 'Lace Curtain Cleaning: A Successful Home Business'
+url: http://www.gutenberg.org/ebooks/33446
